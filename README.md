@@ -1,2 +1,2 @@
 # yubari_SSM
-Framework based on SSM
+Framework test based on SSM
